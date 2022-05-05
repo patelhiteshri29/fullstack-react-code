@@ -24,7 +24,7 @@ After starting the server you can install and run the client from the `client` f
 ## Feedback
 
 In case you have any comments, questions, bugs, enhancements feel free to open an issue in this repository.
-If you you want to follow me on twitter, my handle is [@nilshartmann](https://twitter.com/nilshartmann).
+If you you want to follow me on github account
  
 ------
  
